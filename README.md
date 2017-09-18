@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Pixel Flex learning GitHub!
 
 You can use the [editor on GitHub](https://github.com/pixelflex/pixelflex.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
